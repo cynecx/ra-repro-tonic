@@ -1,0 +1,8 @@
+[package]
+name = "ra-repro-tonic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tonic = "0.8.0"
+prost = "0.11.0"
